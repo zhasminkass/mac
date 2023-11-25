@@ -1,0 +1,2 @@
+# mac
+Devops AlmaU
